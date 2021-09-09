@@ -18,7 +18,6 @@ if(!isset($_SESSION['username'])){
   <li><a href="./booking.php" class="w3-bar-item w3-button">My Bookings</a></li>
   <li><a href="./status.php" class="w3-bar-item w3-button">Ticket Status</a></li>
   <li  class="right"><a href="./logout.php">Logout</a></li>
-  <li  class="right"><a href="./logout.php">Help</a></li>
   <li  class="right w3-bar-item w3-button w3-white"><?php echo $_SESSION['username']; ?></li>
 </ul>
 <br>
