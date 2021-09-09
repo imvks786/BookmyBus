@@ -11,6 +11,8 @@ Just launch the Apache and Mysql Server and goto localhost/index.php You will se
 ![image](https://user-images.githubusercontent.com/56357173/132630665-f6072b69-9c3a-433c-9232-f9d6018b6f62.png)
 4. Confirm Your Booking
 ![image](https://user-images.githubusercontent.com/56357173/132631316-c68e5e90-2de0-437c-969f-eabcae61b4d2.png)
+5. Ticket Status
+![image](https://user-images.githubusercontent.com/56357173/132633299-1992b057-77d3-426c-b3a9-90a3ce758ade.png)
 
 This project contains some images maybe copyrighted but this is for fair use of that not for any commerical usages.
 This project also contains the W3.CSS file for styling the whole webpage design and also for fair usages.
