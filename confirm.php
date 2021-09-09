@@ -74,6 +74,17 @@ if (isset($_POST['confirm'])) {
             </div>
         </form>
     </div>
+<style>
+    .inp_box{
+	width: 350px;
+	border-radius:25px;
+	outline: none;
+	padding: 10px 10px;
+	border:1px solid blue;
+	margin: 8px 0;
+	box-sizing: border-box;
+}
+</style>
 </body>
 <footer>
 <div class="foot w3-center" style="margin-top:50px;">
